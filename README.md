@@ -1,5 +1,5 @@
-# this project all credit goes to 
-Thanks for the begainer level video in MUI
+# This project all credit goes to https://github.com/safak
+##Thanks for the begainer level video in MUI
 https://github.com/safak
 
 # Getting Started with Create React App
